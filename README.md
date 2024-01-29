@@ -9,10 +9,8 @@ La máquina, inicialmente, juega de manera justa, pero cuando está perdiendo, c
 
 ## El busca minas:
 En este proyecto el juevo del "Busca minas" en Java.
-El programa debe permitir al usuario jugar las dimensiones y minas que el quiera
-Las reglas son iguales al busca minas normal
+El programa debe permitir al usuario jugar las dimensiones y minas que el quiera; las reglas son iguales al busca minas normal
 
 ## La ruleta de la suerte:
 En este proyecto el juevo de "La ruleta de la suerte" en Java.
-El programa debe permitir jugar entre varios usuarios al mismo tiempo
-Las reglas son iguales al programa original
+El programa debe permitir jugar entre varios usuarios al mismo tiempo y las reglas son iguales al programa original
